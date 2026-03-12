@@ -1,0 +1,137 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 OPR/128.0.0.0" version="29.6.1">
+  <diagram name="Страница — 1" id="y9Uj714VLl_7rMloUSt9">
+    <mxGraphModel dx="2525" dy="1165" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-4" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;fontSize=17;" target="tlfkz0Ci0Y-YJHjWeDFY-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="387" y="81" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-8" edge="1" parent="1" source="tlfkz0Ci0Y-YJHjWeDFY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;fontSize=17;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="387" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="&lt;font&gt;Запуск головного меню&lt;/font&gt;" vertex="1">
+          <mxGeometry height="85" width="144" x="315" y="114" as="geometry" />
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-19" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;" value="Тип дії" vertex="1">
+          <mxGeometry height="84" width="144" x="315" y="348" as="geometry" />
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-27" edge="1" parent="1" source="tlfkz0Ci0Y-YJHjWeDFY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;fontSize=17;" target="tlfkz0Ci0Y-YJHjWeDFY-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-43" edge="1" parent="1" source="tlfkz0Ci0Y-YJHjWeDFY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;fontSize=17;" target="tlfkz0Ci0Y-YJHjWeDFY-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="270" />
+              <mxPoint x="770" y="851" />
+              <mxPoint x="391" y="851" />
+            </Array>
+            <mxPoint x="738.4998664855957" y="941.5596504211426" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-26" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=17;" value="&lt;font&gt;Очікування дій гравця&lt;/font&gt;" vertex="1">
+          <mxGeometry height="85" width="144" x="315" y="227" as="geometry" />
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="Почати нову гру" vertex="1">
+          <mxGeometry height="85" width="144" x="143" y="487" as="geometry" />
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="Продовжити" vertex="1">
+          <mxGeometry height="85" width="144" x="317" y="487" as="geometry" />
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="вибрати збереження" vertex="1">
+          <mxGeometry height="85" width="144" x="491" y="487" as="geometry" />
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-32" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=17;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="387" y="486" as="sourcePoint" />
+            <mxPoint x="387" y="432" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-33" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=17;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="209" y="455" />
+              <mxPoint x="387" y="456" />
+              <mxPoint x="580" y="457" />
+            </Array>
+            <mxPoint x="209" y="486" as="sourcePoint" />
+            <mxPoint x="580" y="486" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-34" edge="1" parent="1" source="tlfkz0Ci0Y-YJHjWeDFY-28" style="endArrow=none;html=1;rounded=0;exitX=0.404;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=17;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="201.5" y="598" />
+              <mxPoint x="379.5" y="599" />
+              <mxPoint x="572.5" y="600" />
+            </Array>
+            <mxPoint x="201.5" y="629" as="sourcePoint" />
+            <mxPoint x="572" y="573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-35" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=17;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="389" y="598" as="sourcePoint" />
+            <mxPoint x="389" y="573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="Ігровий процес" vertex="1">
+          <mxGeometry height="85" width="144" x="173" y="653" as="geometry" />
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-37" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=17;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="245" y="652" as="sourcePoint" />
+            <mxPoint x="245" y="598" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=17;" value="&lt;font&gt;Запуск гри&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="144" x="315" y="13" as="geometry" />
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-42" edge="1" parent="1" source="tlfkz0Ci0Y-YJHjWeDFY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" target="tlfkz0Ci0Y-YJHjWeDFY-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1" y="835" />
+              <mxPoint x="1" y="270" />
+              <mxPoint x="112" y="270" />
+            </Array>
+            <mxPoint x="267" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="Проходження фінального рівню" vertex="1">
+          <mxGeometry height="85" width="144" x="171" y="792" as="geometry" />
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-41" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=17;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="244.5" y="792" as="sourcePoint" />
+            <mxPoint x="244.5" y="738" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=17;" value="Вихід з гри" vertex="1">
+          <mxGeometry height="70" width="144" x="320" y="1053" as="geometry" />
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="Завершення гри" vertex="1">
+          <mxGeometry height="85" width="144" x="320" y="915" as="geometry" />
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-46" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=17;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="391.38" y="1054" as="sourcePoint" />
+            <mxPoint x="391.38" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-47" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" value="play" vertex="1">
+          <mxGeometry height="29" width="100" x="105" y="459" as="geometry" />
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-48" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=17;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: rgb(255, 255, 255);&quot;&gt;continue&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="67" x="319.9969152379918" y="459.0041067165798" as="geometry" />
+        </mxCell>
+        <mxCell id="tlfkz0Ci0Y-YJHjWeDFY-51" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=17;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: rgb(255, 255, 255);&quot;&gt;load safe&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="79" x="506" y="459" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
