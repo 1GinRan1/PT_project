@@ -19,3 +19,9 @@ The game challenges players to navigate through complex environments, utilizing 
 
 ## 📖 Development Background
 The core of this project originated as a bachelor's degree work. This version represents a significant upgrade in terms of code architecture, asset quality, and overall gameplay depth, moving from an academic prototype to a more complete software product.
+
+## 📋 Requirements (Analysis Phase)
+Project documentation and analysis artifacts are located in the `/requirements` folder:
+* [Functional Requirements](./requirements/functional.md)
+* [Non-Functional Requirements](./requirements/non-functional.md)
+* [User Stories](./requirements/backlog.md)
